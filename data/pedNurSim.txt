@@ -1,0 +1,265 @@
+ 
+ORIGINAL ARTICLE 
+ 
+Child Health Nurs Res, Vol.19, No.2, April 2013: 111-119
+http://dx.doi.org/10.4094/chnr.2013.19.2.111 
+ 
+ISSN(Print) 2287-9110
+ISSN(Online) 2287-9129 
+ 
+간호활동을 중심으로 한 아동간호시뮬레이션 실습 분석 
+ 
+신현숙 1 , 심가가 2 , 이유나 3 
+ 
+1 경희대학교 간호과학대학, 2 경희대학교 대학원 간호학과 박사과정, 3 경희대학교 대학원 간호학과 석사과정 
+ 
+Nursing Activities Identified through Pediatric Nursing Simulation 
+ 
+Hyun-sook Shin 1 , Ka-Ka Shim 2 , Yu-na Lee 3 
+ 
+1 Kyung Hee University College of Nursing Science, 2 Kyung Hee University Graduate Student, 3 Kyung Hee University Graduate Student, Seoul, Korea 
+ 
+Purpose: This research was a descriptive study of nursing activities observed in nursing simulation during a senior nursing student practicum.
+Content and frequencies of nursing activities during the simulation practice were identified. Methods: Thirty-six episodes of pediatric nursing simulation were videotaped. Both verbalizations and descriptions of nonverbal behaviors were recorded from the videotapes. The data were coded and analyzed. The coded nursing activities were evaluated for frequency and purpose of interaction. Results: Average time per simulation episodes was 27 minutes and ranged from 3.30 to 32.54 minutes. Nursing activities in these simulation episodes included nursing assessments such as vital sign measurement, associated symptom assessment, and check of patient condition, nursing interventions such as medication, tepid water massage, fluid therapy, provision of oxygen, suctioning, hyperglycemia and hypoglycemia management, communication such as parent education, procedure guidance, and communication among providers. Activities in assessment were most frequent, and among them, vital sign measurement and check of patient condition were more frequent than others. Conclusion: Students showed enhanced nursing activities such as more frequent nursing assessment, communication and interventions in their simulation experience. Therefore simulation experience can be considered as one strategies to provide nursing students with better and more intense practicum experience. 
+ 
+Key words: Patient simulation, Pediatric nursing, Nursing education, Nursing activity 
+ 
+서 론 
+ 
+연구의 필요성 
+ 
+시뮬레이션을 이용한 간호학실습형태가 최근 임상실습경험을 보완 하기 위해 적극적으로 도입되고 이런 방법들이 졸업생의 문제해결역량 향상과 관련이 있는 것으로 일부 보고(Jeffries & Rogers, 2007; Lasater, 2007)되고 있다. 
+ 
+임상현장에서의 간호학 임상실습은 국내외를 막론하고 간호학 교육에 있어서 그 의의가 크지만 최근 임상현장확보의 어려움, 실제 대상 
+ 
+교신저자 Hyun-Sook Shin Kyung Hee University College of Nursing Science 26 Kyunghee-daero, Dongdaemun-gu, Seoul 130-701, Korea TEL +82-2-961-9141 FAX +82-2-961-9398 E-MAIL hsshin@khu.ac.kr 
+ 
+주요어 환자 시뮬레이션, 아동 간호, 간호 교육, 간호 중재 투고일 2013/1/10 1차수정 2013/3/25 게재확정일 2013/4/14
+This is an Open Access article distributed under the terms of the Creative Commons Attribution NonCommercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted noncommercial use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+ 
+자를 대상으로 실습하는데 있어서의 제약 등으로 효과적인 간호학임 상실습을 진행하는 것에 장애점이 되고 있다. 또한 간호학생의 임상실 습경험을 분석한 선행연구(Cho & Kwon, 2007)에서 대다수의 간호학 생들의 임상실습 경험이 활력징후 측정과 홑이불 및 환의 교환 등의 단순하고 안전한 간호활동중심으로 수행되고 침습적이거나 고위험상 태의 간호활동은 대부분 관찰만으로 임상실습이 진행되는 것 등이 보고되면서, 이러한 임상실습교육만으로는 실제로 문제해결역량을 갖춘 졸업간호사를 배출시키는데 분명한 한계가 있음이 지적되면서 이를 극복하기 위한 방법으로 모의환자/표준화환자를 사용하거나 사람과 유사한 형태의 반응을 보이나 침습적인 절차의 진행이 가능한 시뮬레 이터를 사용한 실습형태가 대안책으로 제시(Lee, Eom, & Lee, 2007)되고 있다.
+시뮬레이션을 이용한 실습이 임상실습경험을 보완하기 위해서는 학생들이 현장에 노출되었을 때 경험할 수 있는 학습경험이 시뮬레이션 실습과정 동안 이루어져야 하는데, 실제 임상실습과정 동안 가장 강조되는 학습내용이 직·간접 간호활동에 노출되는 것이다. 최근 실제 
+ 
+Copyright ⓒ 2013 Korean Academy of Child Health Nursing  | 111 
+ 
+Child Health Nurs Res, Vol.19, No.2, April 2013: 111-119 
+ 
+상황을 상당히 높은 수준으로 구현하는 시뮬레이터와 표준화환자 등의 결합으로 시뮬레이션실습의 실제성이 향상되었고 더 나아가 전통 적인 임상현장실습에서 경험할 수 없는 중요한 학습경험을 학생에게 제공하기도 하는 것으로 보고(Parker et al., 2011)되고 있다. 그럼에도 불구하고 시뮬레이션을 이용한 실습형태가 간호학임상실습에 있어서 어느 정도 수준에서 허용될 수 있을지에 대해서는 국내외 간호학 평가 기관과 관련단체에 따라 10-50% 정도까지 그 허용범위가 상당한 편차가 있는 실정이다(Korean Accreditation Board of Nursing Education, 2012; National League for Nursing, 2011). 임상실습을 보완할 수 있는 효과적인 시뮬레이션 실습으로 인정되기 위해서는 시뮬레이션 프로 그램, 그룹크기, 사례나 시나리오, 시뮬레이션 타당도, 성과 측정 등의 내용이 보장되어야 하고(Lim, 2011) 이를 평가할 수 있는 도구나 틀이 있어야 한다. 또한 사용하는 시나리오 및 운영이 현재의 임상상황을 대변하는 것이어야 하는데(Kim & Choi, 2011; Ko et al., 2010) 실제 시뮬레이션 실습이 어떤 방식으로 어떻게 이루어지는지에 대해서는 구체적인 연구가 없는 실정이어서 시뮬레이션실습의 허용정도에 대한 견해가 다양한 상태이다.
+이와 함께 최근 의료시뮬레이션이 소개되고 간호교육에서도 활발한 적용논의가 이루어지고 있음에도 불구하고 일부 진행되고 있는 간호시뮬레이션에서 가장 큰 과제로 지적되는 것은 간호현장에서의 간호경험을 실습할 수 있는 시뮬레이션 시나리오 및 이러한 모의 실습과 정이 현장실습을 일부분 보완할 수 있을 정도의 타당성을 가지는지에 대해서이다(Butler & Veltre, 2009; Harris, 2011). 간호실습교육에 시뮬레 이션방법을 적용했을 때 적극적인 간호활동을 경험할 수 있을 것으로 기대되나 실제 간호시뮬레이션 방법에서 사용되는 간호활동이 어느 정도 구현되고 있는지에 대해서는 잘 알려지지 않은 실정이다. 또한 간호실습에서 사용되는 시뮬레이션의 내용과 투입되는 시간 등이 표준 화되어 있지 않고 이에 대한 의견도 매우 분분하여 간호학시뮬레이션 실습의 실제를 확인할 필요가 있다.
+따라서 본 연구에서는 아동간호시뮬레이션 실습의 실제 운영현황을 시간과 간호활동 측면에서 분석하여 간호시뮬레이션 실습이 간호 학임상실습의 발전방향이 될 수 있는지에 대한 논의의 근거자료를 제공하고자 한다. 
+ 
+연구 목적 
+ 
+현재 시행되고 있는 아동간호시뮬레이션 실습의 실제 운영현황 시에 나타나는 간호활동의 양상을 파악하는 것이다. 구체적인 연구목적은 다음과 같다.
+첫째, 아동간호시뮬레이션실습에서 주로 사용되는 시뮬레이션 실습 시나리오의 실제 운영시간을 파악한다.
+둘째, 아동간호시뮬레이션실습에 나타나는 주요 간호활동의 내용 
+ 
+을 파악한다.
+셋째, 아동간호시뮬레이션실습에서 시나리오별로 나타나는 주요 간호활동의 빈도를 확인한다. 
+ 
+연구 방법 
+ 
+연구 설계 
+ 
+본 연구는 아동간호시뮬레이션 활동을 관찰하여 각 에피소드에서 나타나는 주요 활동을 그 주제와 빈도측면에서 분석하고 아동간호시 뮬레이션에서 보이는 주요 아동간호활동을 규명하는 관찰연구이다. 
+ 
+연구 대상 
+ 
+연구대상자는 서울의 일개대학의 아동간호학시뮬레이션실습에 참여하는 4학년 학생 53명이다. 참가자의 평균연령은 22.3세이고 여자 50 명과 남자 3명이 참여하였다. 실제 분석대상은 비디오카메라로 녹화된총 1, 2, 3차에 걸쳐 진행된 아동간호시뮬레이션실습 에피소드 36건이 사용되었다. 
+ 
+연구 도구 
+ 
+간호시뮬레이션 아동간호학실습은 크게 소아과병동 실습과 신생아 집중치료실 실습으로 구성되고 시뮬레이션 실습은 총 3회가 제공되는데 초기 오리엔테이션 과정 1회와 소아병동 5일째에 2회 9시간 동안세 가지 종류의 시나리오로 진행되었다. 시뮬레이션 시나리오의 주제는 아동간호실습이나 아동병동에서 가장 빈번한 상황이거나 유사한 증상이나 환자사정의 결과에 따라 간호중재가 현저하게 달라질 수 있는 상황이 선정되었다. 선정된 시나리오는 영아 활력징후 측정, 호흡곤 란을 동반하거나 동반하지 않은 고열 상황, 저혈당이나 케톤산혈증 상황의 세 가지 시나리오가 포함되었다. 이 연구에서 사용된 시뮬레이터는 레어달 사의 SimBaby (Version I.4.I EN)로 영아 인체의 생리적 기능을 구현하며 울음과 한숨 등을 포함한 음성자료도 표현되는 인체 마네킨이다.
+시뮬레이션 실습은 1차에서는 개별적으로 진행하였고, 2-3차는 3-4 명이 한 팀이 되어서 2차에서는 간호사, 의사, 보호자 등으로 역할분담을 해서 진행하였고, 3차에서는 표준환자/보호자가 투입되어 있는 상황에서 팀원 모두가 협력하여 간호사 역할을 하는 것으로 진행되었다.
+시뮬레이션은 팀당 오리엔테이션, 시뮬레이션 활동, 디브리핑 등에 총 
+ 
+1시간 정도가 소요되었다. 
+ 
+시나리오 소개 
+ 
+본 연구의 아동간호학 시뮬레이션 실습에 적용된 시나리오는 발열 환아 간호, 당뇨 환아 간호, 활력징후 측정훈련이다. 3가지 시나리오는 
+ 
+112 | 간호활동을 중심으로 한 아동간호시뮬레이션 실습 분석 
+ 
+www.chnr.or.kr 
+ 
+http://dx.doi.org/10.4094/chnr.2013.19.2.111 
+ 
+실제 아동 병동에서 빈번히 발생하는 상황을 바탕으로 개발되었다. 하나의 시나리오는 10-15분간 시행되었고, 각각의 시나리오는 학습목표, 시나리오 사례, 기대되는 간호중재 활동으로 구성되며 그 내용은 다음과 같다. 
+ 
+발열 환아 간호 
+ 
+학습목표: 본 연구의 발열 환아 간호 시나리오 목표는 실습학생들이 열의 증상을 알고 영아의 발열상황과 관련증상을 사정하고 적절한 발열 간호중재를 제공하는 것이다. 또한 보호자의 불안정도를 파악하고 불안간호를 수행하는 것도 하나의 학습목표로 포함되었다.
+시나리오 줄거리: 39˚C의 열과 기침을 주 증상으로 하는 6개월 된남아가 응급실을 경유하여 아동병동으로 입원한 상황을 제시하였다.
+환아는 열이 난 이후부터 수유를 잘하지 못하였으며 응급실 검사결과 Respiratory Syncytial Virus (RSV) 양성이 확인되었다. 본 시나리오에서 실습학생은 환아를 담당하는 병동간호사의 역할을 수행하는 것으로 하였다. 설정된 예상소요시간은 15분이었다. 
+ 
+당뇨 환아 간호 
+ 
+학습목표: 본 연구의 당뇨 환아 간호 시나리오는 실습학생들이 저혈당 혹은 고혈당 시에 나타날 수 있는 증상을 알고, 환자의 상태를 파악하여 그에 맞는 혈당 조절 간호를 제공하는 것이 목표이다.
+시나리오 줄거리: 혈당 조절 시나리오 사례는 1년 전부터 제1형 당뇨를 앓고 있는 6세 아동이 생일파티에 다녀온 후에 쓰러져서 응급실에 방문한 상황을 제시하였다. 고혈당 시나리오에서는 상황과 함께 환아가 깊고 빠른 호흡을 보이는 증상이 구현되었으며 저혈당 시나리오에 서는 의식이 떨어지고 땀이 나는 증상이 포함되었다. 사전에 설정된 예상소요시간은 15분이었다. 
+ 
+아동간호 입문 
+ 
+학습목표: 아동간호 입문 시나리오의 목표는 실습학생들이 보호자 와의 의사소통을 통해서 신뢰관계를 형성하고 아동의 정보를 수집할수 있는 것이다. 또한 영아의 활력징후를 측정하고 측정결과를 해석하고 관련증상을 사정해서 상황을 해석하고 이를 간호사에게 보고할 수있는 것이 목표에 포함되었다.
+시나리오 줄거리: 어머니와 함께 아동병동에 입원한 6개월 영아의 간호력을 작성하고 활력징후를 측정해서 담당간호사에게 보고하는 상황이다. 설정된 예상소요시간은 5분이었다. 
+ 
+자료 수집 방법 및 분석 방법 
+ 
+자료수집 및 분석과정은 Figure 1과 같다. 연구 진행은 K대학교 기관 생명윤리 심의위원회의 심의를 거쳐 심의면제 허가(KHU IRB 2011- 
+ 
+Figure 1. Data analysis process. 
+ 
+016)를 받은 후 진행하였으며 자료 수집기간은 2010년 8월부터 11월까 지였다. 아동간호학 실습 수업에 참여하는 학생들에게 연구의 목적, 방법 및 실습 과정 중에 시행될 비디오 녹화과정을 설명하였고, 연구 참여 및 비디오 녹화에 대한 사전동의를 받은 후 시행하였다. 비디오 녹화과정이 학생들의 자가 행위분석의 한 도구였으므로 이에 대한 설명을 하였다. 연구참여를 원하지 않을 경우에는 실습은 동일하게 진행되고 분석자료에서 제외되고 이 과정은 동의서에 따로 명시할 수 있기 때문에 실습과정 및 학생평가에 영향을 미치지 않음이 사전설명에 포함되어 제공되었다.
+시뮬레이션 실습과정을 Simbaby debriefing system으로 녹화(시뮬 레이터의 상태와 학생들의 수행이 함께 녹화됨)한 후 이 내용을 아동 간호학 석사과정에 있는 연구원 2인이 각각 반복해서 시청하면서 언어적, 비언어적 행동으로 구분하여 전사하였다.
+전사된 시뮬레이션 실습상황을 시간의 흐름에 따라 간호에피소드 별로 구분하였다. 에피소드는 공유된 주제를 가지고 연속적인 언어적, 비언어적 교대를 하는 것을 포함하는 둘간에 발생하는 상호작용 상황 으로, 누군가가 어떤 대상이나 활동, 사건, 느낌에 대해 말했을 때 시작 하고, 상대방이 그 주제에 반응하는 것을 실패했을 때나 상대자의 관심이 30초 이상 그 주제에서 떠나 있을 때 종결된다. 상호작용 에피소 드는 참가자의 언어적 행동과 몸짓, 자세, 접촉, 눈맞춤 등의 비언어적 행동 모두를 포함하였고, 분석단위는 분류될 수 있는 가장 작은 구절 이나 행동부터 문단전체까지를 포함하여 간호행위로 분류될 수 있는 최소단위로 나누어서 분류하였다.
+간호행위별 의미단위로 나뉘어진 자료를 간호활동에 따라 명명화 하였다. 확인된 모든 간호활동들에서 동일한 목표를 가지고 이루어진 활동들을 분류화 하였을 때 환자의 건강문제를 해결하기 위한 기초자료 수집을 목적으로 하는 간호활동(Lee, Eom, & Lee, 2007)을 간호사 정으로, 확인된 간호사정결과에 따라 직접적으로 이루어진 간호활동을 간호 중재로, 간호사정 및 간호 중재 시에 환자-간호사, 간호사-간호사, 간호사-의사 관계 속에서 이루어진 관계형성 및 정보공유 활동은 의사소통으로, 총 세 주요범주로 분석된 간호활동들이 분류됨을 확인할 수 있었다. 
+ 
+www.chnr.or.kr  신현숙, 심가가, 이유나 | 113 
+ 
+Child Health Nurs Res, Vol.19, No.2, April 2013: 111-119 
+ 
+연구 결과 
+ 
+Table 1. Nursing Activities in the Simulation Episodes of Febrile Infant
+Nursing process Nursing activity n % Total N (%)
+Assessment Vital sign measurement 97 (43.8) Measurement of body temperature 18 (8.1) Measurement of respiration 9 (4.1) Measurement of apical pulse 6 (2.7) Measurement of blood pressure 4 (1.8) History taking 22 (9.9) Observation of patient condition 13 (5.9) Measurement of oxygen saturation 12 (5.4) Auscultation of lung sound 12 (5.4) Checking lab findings 1 (0.5) Intervention Tepid massage 7 (3.2) 64 (29.2) Controling fever 3 (1.4) Fluid therapy 5 (2.3) Culture test 2 (0.9) Checking physician order 2 (0.9) IV insertion 1 (0.5) Medication 9 (4.1) Education on medication 8 (3.6) Preparation of medication 4 (1.8) Applying O 2 8 (3.6) Applying suction 4 (1.8) Applying nebulizer 4 (1.8) Keeping position 5 (2.3) Tactile stimulation 1 (0.5) CPR 1 (0.5) Communication Caregiver education 23 (10.4) 60 (27) Procedural guidance 12 (5.4) Emotional support 4 (1.8) Building rapport 1 (0.5) Reporting to physician 16 (7.1) Sharing information 4 (1.8) Total 221 (100) 221 (100)
+CPR = Cardiopulmonary resuscitation. 
+ 
+본 연구에서 분석된 아동간호시뮬레이션실습 녹화자료는 시뮬레이션 실습 총 1, 2, 3차에 걸쳐 총 36건이 나타났으며 36건 중 발열환아 간호 16건, 당뇨환아 간호 12건, 아동간호 입문 8건으로 구성되었다.
+시뮬레이션 실습 참가자들은 실습에 참여하기 전 임상실습경험이 600시간 이상인 경우가 22명(41.5%), 450시간이 6명(11.3%), 240시간이 8명(15.1%), 120시간이 7명(13.2%), 임상실습경험이 없는 경우가 10명 (18.9%)이었다. 62.3% (33명)의 학생들이 이전 시뮬레이션 실습경험이 있었고, 이전 시뮬레이션 경험은 29명(87.9%)의 학생들이 건강사정 과목에서 수행해 본 경험이 있었고, 그 외 4명은 기본간호학을 포함한 기타과목에서 경험이 있는 것으로 보고하였다.
+관찰연구결과, 아동간호시뮬레이션 에피소드의 평균 소요시간은 27분이었고, 최소 3분 30초에서 32분 54초까지의 범위를 보였다. 각 주제별로는 아동간호 도입훈련이 평균 7분이 소요되었고, 최소 3분 30초에서 최대 8분 37초까지 나타났다. 발열환아간호의 경우 평균 15분이 소요되었고, 최소 소요시간을 보인 에피소드가 5분 25초, 최대 시간이 소요된 에피소드는 26분 42초까지였다. 마지막으로 당뇨 환아 간호는 평균 16분, 최소 9분 26초에서 최대 24분 4초의 범위를 보였다.
+아동간호시뮬레이션 에피소드를 전사하여 간호활동을 중심으로 분석한 결과 열환아간호 221건, 혈당관리 247건, 아동간호 입문 73건의 간호활동들이 추출되었다. 각각의 간호활동들은 다시 간호사정, 간호 중재, 의사소통으로 크게 세 가지 영역으로 분류되었다. 각 영역에서 확인된 주요간호활동은 간호사정영역에서는 활력징후 측정, 관련증상 사정, 환아 신체사정 등이었으며, 간호중재영역에서는 미온수 마사지, 수액간호, 투약, 산소간호, 흡인간호, 당뇨교육, 저혈당 간호 등의 특정 간호수기로 나타났다. 의사소통 영역에서는 보호자교육 및 설명 그리고 의사보고 및 의료진 간의 의사소통이 확인되었다.
+첫 번째로 전체 16건의 발열환아 간호 시뮬레이션 실습 에피소드에서 나타난 간호활동을 분석한 결과는 Table 1과 같다. 발열환아 간호 에피소드 내에서 간호사정영역은 43.8%, 간호중재영역은 29.2%, 의사 소통영역은 27%의 비율로 나타났다. 발열환아 간호 시뮬레이션 상황 에서 주로 나타난 간호활동은 활력징후 측정(호흡음사정, 혈압측정, 체온측정, 심첨맥박측정), 산소포화도측정, 환아 정보수집, 환아 상태 사정 및 미온수 마사지, 해열제 투약, 수액제공, 흡인간호, 산소제공 보호자 설명 및 교육, 중재절차설명, 정서적지지, rapport 형성 그리고 의료진에게 의사보고, 의료진 정보공유하기 등이었다(Table 1).
+두 번째로 당뇨환아의 혈당 조절 상황에 대한 12건의 시뮬레이션 에피소드를 분석한 결과 주요 간호활동은 Table 2와 같았다. 당뇨환아 에피소드에서는 간호사정(38.8%), 간호중재(37.7%), 의사소통(25.5%)의비율로 나타났다. 고혈당 및 저혈당 상황에서 공통적으로 나타난 간호 
+ 
+술기는 활력징후 측정(혈압, 체온, 심박수, 호흡), 산소포화도측정, 건강력 사정, 환아 상태사정, 의식사정, 혈당측정, 수액제공, 보호자 설명 및당뇨교육, 의사보고 및 의료진과의 정보교환 등이었다. 특징적으로 고혈당 상황에서 나타난 간호중재는 인슐린 제공 간호술기가, 저혈당 상황에서는 단당류 제공 간호술기가 가장 많이 시행된 것으로 확인되었다(Table 2).
+세 번째로 총 8건의 아동간호 입문 에피소드를 간호활동 중심으로 분석하였을 때 그 결과는 Table 3과 같다. 전체 아동간호 입문 에피소드 에서는 간호사정(46.6%), 간호중재(1.4%), 의사소통(52.024%)의 비율로 나타났다. 아동간호 입문 에피소드에서 분석된 간호활동은 정보수집, 호흡수 측정 및 호흡음 청진, 심첨맥박 측정 및 심음청진, 혈압 측정, 체온 측정, 산소포화도 측정, 산소제공, 환아와 보호자와 rapport 형성하기, 보호자 교육 및 설명, 의료진에게 보고하기 등으로 파악되었다(Table 3). 
+ 
+114 | 간호활동을 중심으로 한 아동간호시뮬레이션 실습 분석 
+ 
+www.chnr.or.kr 
+ 
+http://dx.doi.org/10.4094/chnr.2013.19.2.111 
+ 
+Table 2. Nursing Activities in the Simulation Episodes of Glucose Control
+Nursing process Nursing activity n % Total N (%)
+Assessment Vital sign measurement 96 (38.8) Measurement of respiration 14 (5.7) Measurement of blood pressure 8 (3.2) Measurement of apical pulse 7 (2.8) Measurement of body temperature 2 (0.8) History taking 21 (8.5) Consciousness assessment 17 (6.9) Checking lab findings 12 (4.8) Observation of patient condition 12 (4.8) Measurement of oxygen saturation 3 (1.2) Intervention Checking blood sugar test 26 (10.5) 93 (37.7) Giving glucose 10 (4.1) Fluid therapy 8 (3.2) IV insertion 5 (2.0) Diabetes education 5 (2.0) Preparation of medication 11 (4.5) Giving medication 6 (2.4) Checking physician order 13 (5.3) Keeping position 9 (3.6) Communication Caregiver education 23 (9.3) 58 (25.5) Reporting to physician 24 (9.7) Sharing information 11 (4.5) Total 247 (100) 247 (100) 
+ 
+Table 3. Nursing Activities in the Simulation Episodes of Introduction Program
+Nursing process Nursing activity n % Total N (%)
+Assessment Vital sign measurement 34 (46.6) Measurement of apical pulse 8 (10.9) Measurement of respiration 7 (9.6) Measurement of body temperature 5 (6.9) Measurement of blood pressure 5 (6.9) History taking 3 (4.1) Measurement of oxygen saturation 3 (4.1) Auscultation of heart sound 2 (2.7) Observation of patient condition 1 (1.4) Intervention Applying O 2 1 (1.4) 1 (1.4) Communication Procedural guidance 14 (19.2) 38 (52.0) Caregiver education 11 (15.1) Reporting to nurse or physician 6 (8.2) Building rapport 5 (6.8) Emotional support 2 (2.7) Total 73 (100) 73 (100) 
+ 
+Table 4는 세 가지 시뮬레이션 시나리오에서 관찰된 간호활동을 간호사정, 중재, 의사소통 영역에서 유사한 항목들을 묶어서 서로 비교한 것이다. 전체적으로 분류된 3개의 간호과정 중 간호사정(43%)이 가장 많은 비율을 차지하였고 그 다음으로 의사소통영역(35%), 간호중재 영역(23%) 순으로 나타났다(Table 4). 
+ 
+논 의 
+ 
+본 연구결과에서 시뮬레이션 설계과정을 통해 사전설정된 간호시 뮬레이션 예상시간과 시뮬레이션 실습 에피소드별 개별적인 수행시간의 편차가 큰 것으로 나타났다. 목표 예상시간은 아동간호 입문이 5분, 발열환아간호가 15분, 당뇨환아 혈당조절 시나리오가 15분이었다. 그러나 본 연구에서의 실제운영시간은 아동간호시뮬레이션 에피소드의 평균 소요시간은 27분이었고, 최소 3분 30초에서 32분 54초까지의 범위를 보였다. 각 주제별로는 발열환아간호의 경우 평균 15분 소요되었고, 최소 소요시간을 보인 에피소드가 5분 25초, 최대 시간이 소요된 에피소드는 26분 42초까지였다. 당뇨환아간호는 평균 16분, 최소 9분 26초에서 최대 24분 4초의 범위를 보였다. 마지막으로 아동간호 입문 훈련이 평균 7분 소요되었고, 최소 3분 30초에서 최대 8분 37초까지 나타났다. 목표시간에 비해 아동간호 입문 시뮬레이션은 건강력 사정에 시간이 소요되고 측정결과를 보고하는 시간까지 감안하였을 때 시뮬 
+ 
+레이션 목표시간을 보다 길게 설정할 필요가 있었다. 발열환아간호나 당뇨환아 혈당조절 상황에 있어서는 평균은 예상목표시간과 유사하게 나타났으나 최대 소요시간이 10분을 훨씬 초과하는 사례들이 있고 같은 시뮬레이션 시나리오 간에도 활동시간의 편차가 커서 실습지도 교수의 개입, 팀원수, 팀워크 등의 영향요소들에 대해 추후 깊이 있는 분석이 필요한 것으로 보인다. 아울러서 시뮬레이션 시간과 시뮬레이션 학습목표 달성과의 관계에 대해서도 깊이 있게 탐구할 필요가 있을 것이다.
+아동간호시뮬레이션 에피소드를 전사하여 간호활동을 중심으로 분석한 결과 나타난 주요간호활동은 활력징후 측정, 관련증상사정, 환아 신체사정, 과거력 사정과 미온수 마사지, 수액간호, 투약, 산소투여, 흡인간호, 당뇨교육, 저혈당간호 등의 특정간호수기 및 대상 환아 그리고 보호자와의 의사소통과 정보교환, 당뇨 추후관리교육이었으며 의사보고 및 의료진 간 의사소통이었다. 실제 임상실습 간호활동 시간을 분석 연구 논문(Lee, Sung, Jung, & Kim, 1998)에서는 실제 임상 학생실습 중 발생한 총 간호활동 시간(6.04시간) 중 직접간호활동 56% (3.38시간) 간접간호 44% (2.66시간)인 것으로 확인되었다. 또한 직접 간호활동 시간 중 가장 높았던 항목은 활력징후 측정으로 13.05% (47.35분)차지 했다. 이는 대부분의 실제 임상실습 간호활동 중 56% 정도만이 직접간호 활동에 해당하여 임상실습에서 다양한 간호중재를 실제로 경험하지 못하고, 그 또한 대부분이 활력징후 측정과 같은 단순한 간호활동에 치중되어 있다는 것을 보여준다. 이는 임상실습과정에서의 간호활 동을 분석한 다른 선행연구(Cho & Kwon, 2007)에서도 간호학생들이 임상실습경험에서 70% 이상의 학생들이 대부분 관찰경험이 지배적이 었고 실제 수행한 간호활동들이 단순하거나 안전한 간호술기 중심이 어서 대부분의 임상실습시간동안 간호학생의 임상추론과정이 필요하 
+ 
+www.chnr.or.kr  신현숙, 심가가, 이유나 | 115 
+ 
+Child Health Nurs Res, Vol.19, No.2, April 2013: 111-119 
+ 
+Table 4. Comparison of Nursing Activities in Simulation Episodes
+Episode Febrile infant care Glucose management Measurement of vital sign
+Assessment Vital sign measurement Vital sign measurement Vital sign measurement Measurement of respiration Measurement of respiration Measurement of respiration Measurement of blood pressure Measurement of blood pressure Measurement of blood pressure Measurement of apical pulse Measurement of apical pulse Measurement of apical pulse Measurement of body temperature Masurement of body temperature Measurement of body temperature History taking History taking History taking Assess consciousness Assess consciousness Checking lab findings Checking lab findings Auscultation of heart sound Observation of patient condition Observation of patient condition Observation of patient condition Measurement of oxygen saturation Measurement of oxygen saturation Measurement of oxygen saturation Intervention Tepid massage Checking blood sugar test Controling fever Giving glucose Fluid therapy Fluid therapy Culture test Diabetes education Checking physician order Checking physician order IV insertion IV insertion Medication Medication Medication education Preparation of medication Preparation of medication Applying O 2 Applying O 2 Applying suction Applying nebulizer Keeping position Keeping position Tactile stimulation CPR Communication Caregiver education Caregiver education Caregiver education Procedural guidance Procedural guidance Emotional support Emotional support Building rapport Building rapport Reporting to physician Reporting to physician Reporting to nurse or physician Sharing information Sharing information
+CPR = Cardiopulmonary resuscitation, IV = Intravenous. 
+ 
+거나 간호사가 주도적으로 환자상황에 대처해야 하는 간호중재활동을 거의 수행하지 못하는 것으로 보고되었다. 이에 반해 본 시뮬레이션 에피소드 내에서 분석된 간호활동은 대부분이 직접간호활동이었 으며 또한 간호사정, 간호중재, 의사소통과 같은 다양한 간호 활동이 이루어지고 있음을 확인할 수 있었다. 이는 실제 임상실습에서 충분히 경험하지 못한 직접간호활동을 시뮬레이션을 통해서 경험할 수 있어서 시뮬레이션 방법이 간호학생의 간호수행 향상에 효과가 있음을 알수 있다. 더 나아가 시뮬레이션실습과정을 통해 임상의사결정역량이 있는 간호사로 훈련시키고자 하는 교수법의 특징을 고려할 때 본 연구의 결과에서 간호사정과 간호중재활동, 의사소통이 활발하게 나타난 것은 시뮬레이션실습경험이 간호학생들의 적극적인 임상실습경험으로 통합되기에 충분한 가능성이 있음을 보여준다고 할 수 있다.
+분석된 시뮬레이션의 각 에피소드는 간호과정에 따라 간호사정(assessment), 간호중재(intervention), 의사소통(communication)의 세 가지 
+ 
+영역으로 분류되었다. 간호사정영역의 간호활동과 간호중재영역 및 의사소통 영역의 간호활동 평균 비율은 사정영역(43%), 의사소통 영역 (35%), 중재영역(23%) 순으로 균등하게 나타났다. 분류된 3개의 간호활동 과정 중 간호사정이 가장 많은 비율을 차지하였고 그 다음으로 의사소통영역의 비율이 높았다. 상대적으로 간호중재영역의 비율이 가장 낮았던 것은 아동간호 입문훈련 에피소드가 포함되었기 때문에 사정영역이 가장 높게 나타난 것으로 파악된다. 발열환아간호와 혈당관리 에피소드의 간호중재 평균비율은 33%로 의사소통영역의 비율 (35%)과 유사함을 확인할 수 있었다. 중환자실에서 일어나는 실제 임상간호사의 간호활동을 분석한 논문(Lynne & Gillian, 2002)에서도 전체 임상간호활동 중 환자사정이 38%였고, 직접간호활동이 24%로 보고 되었다. 이를 통해 실제 임상에서도 환자 사정이 가장 많이 이루어지고 그 다음으로 직접간호활동이 이루어짐을 알 수 있다. 이는 본 연구의 시뮬레이션에서 간호활동의 비율이 실제 간호사의 간호활동과 매 
+ 
+116 | 간호활동을 중심으로 한 아동간호시뮬레이션 실습 분석 
+ 
+www.chnr.or.kr 
+ 
+http://dx.doi.org/10.4094/chnr.2013.19.2.111 
+ 
+우 유사한 것을 보여준다. 이를 통해 시뮬레이션 실습이 간호학 임상 실습의 효과적인 한 방법으로 사용하는 것에 대해 하나의 근거가 될수 있겠다.
+본 연구결과 시뮬레이션 에피소드 내에서 의사소통영역(35%)이 간호중재영역(23%)보다 높은 비율로 활발하게 이루어지는 것을 확인할수 있었는데 이는 시뮬레이션을 통해 의사소통영역 간호활동까지도 경험할 수 있다는 것을 보여준다. 의사소통영역은 간호중재영역과 중복 될 수 있지만, 실제 분석 결과 환자-간호사, 간호사-간호사, 간호사-의사 간의 관계에서 정보공유 내용을 바탕으로 한 다양한 의사소통 활동이 빈번하게 이루어지는 것을 확인할 수 있었다. 또한 시뮬레이션 실습동안에 발생하는 의사소통 영역을 강조하기 위해 이를 분류하였다. 실제 임상수행능력시험에서도(Clinical Performance Examination, CPX) 환자-의사관계를 평가하도록 구성되어 있으며, 미국 전공의 수련 교육인증위원회(Accreditation Council for Graduate Medical Education, ACGME)에서도 환자와의 관계, 의사소통기술이 진료능력 평가 포함될 만큼 임상역량평가의 중요항목에 구성되어 있다. 또한 간호 임상실습 동안에 의사소통 능력이 간호역량을 높이는데 중요한 요인 (Lee, Kim, Jeong, & Moon, 2011)이며 간호사의 임상역량에도 큰 비중을 차지한다. 실습교육을 통해 간호역량을 높이기 위해서는 의사소통 능력을 증진시키는 것이 필요한데 본 연구의 분석결과 임상역량의 주요활동인 의사소통 영역이 시뮬레이션 실습을 통해 나타났으며 이는 시뮬레이션 실습이 의사소통 능력을 향상시키는 교수법으로 사용될수 있음을 시사한다. 그러나 본 연구결과에서 분석된 의사소통 항목중 투약교육과 보호자 교육의 분류는 실제 보호자 교육은 투약교육을 제외한 나머지 정보공유의 내용이었으나 직접 교육에 해당하여 중재 와도 중복이 되므로 실제 임상 간호 실습, 시뮬레이션 실습에서 이루 어지는 커뮤니케이션의 실체에 대한 심도 깊은 연구가 필요하다.
+실제 임상 간호활동을 분석한 논문(Williams, Harris, & Turner-Stokes, 2009)에서 RN의 업무부담 중 직접간호활동(75%)이 가장 높았고 그 다음으로 다학제팀 구성원들과 의사소통하는 것(19%)이 높게 확인 되었 는데 이는 실제 임상간호사의 업무의 상당부분이 의료진들과 의사소 통에 할당되고 있음을 보여준다. 그러나 본 연구 분석결과에서는 비록 의사소통영역이 각 에피스드 내에서 높은 비율로 활발하게 이루어짐을 확인할 수 있었으나 그 비율에 있어 환자에게 교육하고 정서적 지지를 해주는 직접의사소통이 의료진들과 환자 상태에 대해서 정보교환을 하는 간접의사소통보다 훨씬 높았다. 간호사의 핵심역량이 전문지 식과 기술을 갖추고 간호대상자와 효과적으로 의사소통하는 것(Son & Kim, 2011)임을 고려할 때 대상자와의 직접적 의사소통을 시뮬레이션 실습을 통해서 훈련할 수 있는 것은 시뮬레이션을 활용한 실습의또 다른 강점이라고 할 수 있다. 또한 최근 의료현장에서 다학제팀 협동이 증가함에 따라 간호사의 의사소통 능력의 중요성이 강조되고 있 
+ 
+기에(Son & Kim, 2011) 의료진들과 환자 상태와 관련된 의사소통을 하는 것이 또 다른 중요한 간호역량이 되겠다. 간호학생의 의사소통 능력 향상을 위해서 이론을 실제로 적용해 볼 수 있는 환경을 조성하기 위해 새로운 수업방식의 개발이 필요하며(Kim, Park, & Lee, 2004) 특히본 연구결과 시뮬레이터를 활용한 실습틀 내에서는 제한적인 의료진 들과의 의사소통 문제를 해결하기 위해서는 표준화환자를 적용한 시뮬레이션 운영이 하나의 전략이 될 수 있을 것이라고 사료된다. 실제 표준화 환자를 이용하여 간호 실무교육을 하였을 때 신체사정, 간호기술 및 의사소통 능력에 있어서 기존 모형평가보다 훨씬 효과적이었다는 보고(Lee, 2011)가 있었다. 다른 연구에서도 표준화 환자를 활용하여 학습을 시행한 실험군의 의사소통능력이 더 향상되었다는 보고 (Yoo, 2001)가 있었다. 결론적으로 표준화 환자를 이용한 시뮬레이션이 의사소통 능력향상을 위한 효과적인 전략이 될 수 있음을 알 수 있다.
+본 연구에서 간호 중재 영역에서 가장 높은 빈도로 나타난 간호활 동은 시나리오에 따른 특정간호수기(27.69%)였으며(미온수 마사지, 산소투여, 단당류 제공, 수액간호, 투약간호) 다음으로 보호자 교육 및 설명(21.1%)이었다. 여기에서 각 시나리오별 주제에 따라 연관성이 있는 특정 간호수기 중심으로 간호활동이 이루어졌다. 실제 임상실습에서의 간호활동 시간을 분석한 연구(Lee et al., 1998)에 따르면 간호학생의 임상실습 활동 중 가장 빈도가 많은 직접간호활동은 간호순회, 경구섭취 보조, 상담 및 정서적 지지 순으로 확인되었는데 이처럼 학생실습이 단순간호활동에만 편중되어 있는 것에 비해 상대적으로 본 연구에 서는 시뮬레이션 활동동안 시나리오별로 특화된 특정간호수기(미온수 마사지, 산소투여, 단당류 제공, 수액간호, 투약간호)가 수행되었다.
+이는 시뮬레이션이 시나리오를 기반으로 하여 특정 간호 상황을 제시 하고 있기 때문으로 해석된다. 본 연구의 결과에서 제시된 간호 활동 들은 현재 한국간호평가원(Korean Accreditation Board of Nursing Education, 2012)에서 간호학 실습교육의 핵심 간호술기로 제시하고 있는 20개 평가항목 중 활력징후 측정, 경구투약, 정맥수액주입, 입원관리하기, 산소포화도 측정, 비강 캐뉼라를 이용한 산소요법 등 6가지 항목 들이 시뮬레이션에서 다루어지고 있음을 확인할 수 있다. 이와 같이 시뮬레이션 실습은 간호학생들로 하여금 다양한 간호 상황을 경험 할수 있게 하며 더 나아가 간호 상황을 해결하기 위해 간호평가원의 핵심간호술기뿐만 아니라 그 상황에 적절한 간호중재 활동을 수행해 볼수 있는 기회를 제공한다고 볼 수 있다. 궁극적으로는 시뮬레이션 실습동안의 간호중재활동 경험을 통해 의사결정력, 임상적 판단과 복합적 건강상태에 대한 인식이 증가하여(Lasater, 2007; Shin & Shim, 2010) 임상문제해결 능력을 향상시키는데 도움이 될 것으로 기대된다. 시뮬 레이션 교육을 통해서 다양한 임상 상황을 안전하고 생생하게 배울수 있으며 또한 환자 위험의 부담이 없이 실무를 배우고 직접 적용해볼 수 있기 때문에(Wilford & Doley, 2006) 임상상황과 가장 근접하고 
+ 
+www.chnr.or.kr  신현숙, 심가가, 이유나 | 117 
+ 
+Child Health Nurs Res, Vol.19, No.2, April 2013: 111-119 
+ 
+다양한 시나리오가 개발되어야 하겠다. 또한 실제임상과 가까운 시뮬 레이션 환경을 제공하는 것은 시뮬레이션 동안 학생들이 간호활동 과정을 배우고 피드백받는 것에 더 적극적으로 참여하게 할 수 있기 때문에(Jeffries & Rogers, 2007) 시뮬레이션의 교육적 효과를 위해서는 실제 임상과 가깝게 설계된 환경을 제공하는 것이 중요하겠다.
+본 연구에서는 시뮬레이션 실습에 나타난 주요 간호활동을 분석하 고자 실제 수행된 시뮬레이션 에피소드를 녹화하여 관찰한 자료를 분석하여 수행된 간호활동을 귀납적으로 확인하는 과정을 수행하였다.
+개별적으로 확인된 간호활동을 명명하고 분류하는 과정에서 사정, 중재 과정으로 분류가 되었기 때문에 연구설계과정에서 간호활동을 분석하는 데 있어서 타당성이 확보된 간호활동 및 표준을 기준으로 이와 비교하여 자료분석을 시도한다면 일반적인 간호활동 분류체계와 직접 적으로 비교분석해 볼 수 있는 장점이 있을 것으로 사료된다. 이를 위해 향후에는 연역적 과정으로 분석을 진행하는 것도 효과적인 연구결 과를 도출할 수 있을 것이다.
+본 연구를 통해 향후 간호연구 및 교육에 대한 제안을 하고자 한다.
+시뮬레이션 실습이 전반적인 아동간호학 실습을 보완할 수 있는지에 대한 심층적인 분석이 요구되며 이를 위해서는 아동간호학 시뮬레이션 실습에 다양한 시나리오가 적용되어야 할 것이다. 향후 다양한 시나리오 개발 및 이를 실습에 적용해보고 이때 나타나는 간호활동의 추가 분석과 본 연구결과와 비교해 보는 과정이 필요하다고 본다. 또한 간호시뮬레이션실습의 내용과 적정시간에 미치는 영향요소에 대한 보다 깊이 있는 추후연구가 필요하다. 아울러서 각 개별 간호활동별 시간이 더 구체적으로 분석되어야 하고 간호활동 분석 시 신뢰도를 높이는 것이 필요하다. 추가로 시뮬레이션 간호활동의 내용 및 개별적인 간호 활동시간에 영향을 미치는 요소에 대한 지속적인 연구가 필요하다고 본다. 이를 통해 시뮬레이션 실습이 실제의 임상실습을 보완할 수 있기 위한 타당성과 신뢰성을 확보하는 것이 향후 간호실습교육의 발전을 위해서 필요할 것이다. 
+ 
+결 론 
+ 
+본 연구를 통해 시뮬레이션 간호실습 동안에 주요 간호활동들이 간호사정, 중재활동 등의 간호과정과 의사소통 활동으로 이루어지고 있음을 확인하였다. 이를 통해 간호학 임상실습의 제한된 경험을 보완하 고자 하는 목적에서 이루어지는 간호시뮬레이션실습이 의미있는 경험 임을 확인할 수 있었다. 또한 특정 시나리오에 따라 특정간호중재활동이 활발하게 나타남으로써 시뮬레이션을 통해 실제 임상경험에서 제한적인 직접간호중재경험을 할 수 있는 가능성을 확인하였다. 시뮬레 이션을 통해서 학생들은 많은 직접간호활동을 경험할 수 있고 또한 시뮬레이션 동안 간호사정의 기회가 증가하므로 이를 통해 임상간호사 
+ 
+로서의 주요 역량을 키울 수 있겠다. 그러므로 시뮬레이션이 관찰위주의 간호학 실습의 제한점을 극복하고 생생한 실습경험을 제공하는 대안으로 제시될 수 있을 것이다. 
+ 
+Conflict of Interest 
+ 
+No potential conflict of interest relavant to this article was reported. 
+ 
+Acknowledgements 
+ 
+This work was supported by the 2011-2013 National Research Foundation of Korea (KRF 2011-0014034). 
+ 
+요 약 
+ 
+목적 
+ 
+본 연구는 간호대학 4학년생을 대상으로 아동간호 시뮬레이션 실습동안에 관찰된 간호활동을 분석한 기술연구이다. 시뮬레이션 실습 동안 간호활동의 빈도와 그 내용을 알아보고자 함이다. 
+ 
+방법 
+ 
+아동간호 시뮬레이션 실습동안 총 36개의 에피소드가 녹화되었다.
+녹화된 자료는 언어적, 비언어적으로 전사하고 분석하였다. 도출된 의미단위에서 간호활동의 횟수와 상호작용의 목적을 확인하였다. 
+ 
+결과 
+ 
+각 시뮬레이션 평균 운영 시간은 27분이었고 최소 3분 30초에서 최대 32분 54초로 나타났다. 시뮬레이션 에피소드에서 간호활동은 활력 징후 측정, 관련증상 사정, 환자상태확인하기 등과 같은 간호사정 영역과 투약, 미온수 마사지, 수액요법, 산소제공, 흡인, 고혈당 및 저혈당 관리 활동이 포함된 간호중재 영역 그리고 보호자 교육, 처치 및 시술 기준설명, 의료진 간의 의사소통과 같은 의사소통 영역으로 구분되었다. 간호사정 영역의 활동이 가장 빈번하게 이루어지는 것을 확인하 였다. 
+ 
+결론 
+ 
+학생들은 시뮬레이션 실습동안 간호사정, 의사소통, 중재영역에서 다양한 간호활동을 경험하는 것으로 확인되었다. 그러므로 시뮬레이션 실습은 강화된 실습경험을 학생들에게 제공하기 위한 하나의 교육 전략으로 고려할 수 있겠다. 
+ 
+118 | 간호활동을 중심으로 한 아동간호시뮬레이션 실습 분석 
+ 
+www.chnr.or.kr 
+ 
+http://dx.doi.org/10.4094/chnr.2013.19.2.111 
+ 
+참고문헌 
+ 
+Butler, K. W., & Veltre, D. E. (2009). Implementation of active learning pedagogy comparing low-fidelity simulation versus high-fidelity simulation in pediatric nursing education. Clinical Simulation in Nursing, 5, e129-e136. http://dx.doi:10.1016/j.ecns.2008.03.118 Cho, M. H., & Kwon, I. S. (2007). A study on the clinical practice experiences on nursing activities of nursing students. Journal of Korean Academy of Nursing Education, 13, 143-154.
+Harris, M. A. (2011). Simulation-enhanced pediatric clinical orientation.
+Journal of Nursing Education, 50, 461-465.
+Jeffries, P. R., & Rogers, K. L. (2007). Theoretical framework for simulation design. In P. R. Jeffries (Ed.), Simulation in Nursing Education (pp.121).
+New York, NY: National League for Nursing.
+Kim, H. R., & Choi, E. J. (2011). Development of a scenario and evaluation for simbaby simulation learning of care for children with fever in emergency units. The Journal of the Korea Contents Association, 11(6), 279-288. http://dx.doi.org/ 10.5392/JKCA.2011.11.6.279 Kim, S. A., Park, J. H.,& Lee, H. H. (2004). The development and effects of a comprehensive communication course for nursing students. Journal of Korean Academy of Nursing, 34, 412-420.
+Ko, I. S., Kim, H. S., Kim, I. S., Kim, S. S., Oh, E. G., Kim, E. J., et al. (2010).
+Development of scenario and evaluation for simulation learning of care for patients with asthma in emergency unit. Journal of Korean Academy of Fundamental Nursing, 17, 371-381.
+Korean Accreditation Board of Nursing Education. (2012). Nursing education accreditation standards. Retrieved August 20, 2012, from http://kabon.or.kr/eng/kabon02/index.php Lasater, K. (2007). High-fidelity simulation and the development of clinical judgement: Students’ experiences. Journal of Nursing Education, 46, 269-276.
+Lee, C. H., Sung, Y. H., Jung, Y. Y., & Kim, J. S. (1998). Analysis of nursing care activities of nursing students in clinical experience. Journal of Korean Academy of Nursing Education, 4, 249-263. 
+ 
+Lee, M. H., Kim, H. K., Jeong, S. H., & Moon, I. O. (2011). Effect of task performance style in nursing management practice on problem-solving and nursing competency according to communication ability of nursing students. Journal of Korean Academic of Nursing Administration, 17(1), 106-114.
+Lee, S. E. (2011). Evaluation of the standardized patients (SP) managed instruction for a clinical maternity nursing course. Journal of Korean Academy of Nursing Education, 17, 14-24.
+Lee, S. O., Eom. M., & Lee, J. H. (2007). Use of simulation in nursing education. Journal of Korean Academy of Nursing Education, 13, 90-94.
+Lim, K. C. (2011). Directions of simulation-based learning in nursing practice education: A systematic review. Journal of Korean Academy of Nursing Education, 17, 246-256.
+Lynne, H., & Gillian, N. (2002). Nursing activity in general intensive care.
+Journal of Clinical Nursing, 11, 158-167.
+National League for Nursing. (2011). Simulation innovation resource center.
+Retrieved August 20, 2012, from http://sirc.nln.org/ Parker, R. A., Mcneill, J. A., Pelayo, L. W., Goei, K. A., Howard, J., & Gunter, M. D. (2011). Pediatric clinical simulation: A pilot project. Journal of Nursing Education, 50(2), 105-111.
+Shin, H., & Shim, K. K. (2010). Nursing students’ experiences on pediatric nursing simulation practice. Journal of East-West Nursing Research, 16, 147-155.
+Son, H. M., & Kim, H. S. (2011). Analysis of communication education in the undergraduate nursing curriculum of Korea. Journal of Korean Academy of Nursing Education, 17, 424-432.
+Wilford, A., & Doley, T. J. (2006). Intergrating simulation training into the nursing curriculum. British Journal of Nursing, 15, 604-607.
+Williams, H., Harris, R., & Turner-Stokes, L. (2009). Work sampling: A quantitative analysis of nursing activity in a neuro-rehabilitation setting. Journal of Advanced Nursing, 65, 2097-2107.
+Yoo, M. S., & Yoo, I. Y. (2001). The effectiveness of standardized patient managed instruction for a fundamentals of nursing course. Journal of Nursing Query, 108. 
+ 
+www.chnr.or.kr  신현숙, 심가가, 이유나 | 119 
